@@ -2,8 +2,9 @@ package shop.stopyc.utils;
 
 import org.junit.Before;
 import org.junit.Test;
-import pers.ouroborosno2.segment.AnsjSeg;
-import pers.ouroborosno2.segment.TermsSegment;
+import shop.segment.AnsjSeg;
+import shop.segment.TermsSegment;
+import shop.utils.TfIdf;
 
 import java.util.Arrays;
 import java.util.List;

@@ -2,6 +2,7 @@ package shop.stopyc.utils;
 
 import org.junit.Before;
 import org.junit.Test;
+import shop.utils.PaperFileUtil;
 
 import java.io.IOException;
 import java.util.Arrays;
