@@ -209,7 +209,7 @@ public class AnsjSegTest {
 
 ![image-20230308222940008](https://pic-1316520471.cos.ap-guangzhou.myqcloud.com/202309112120929.png)
 
-![image-20230308222953717](D:\资料\学习资料\作业\软件工程导论\第二次作业-论文查重.assets\image-20230308222953717.png)
+![image-20230911212400115](https://pic-1316520471.cos.ap-guangzhou.myqcloud.com/202309112124235.png)
 
 ## 3. PaperFileUtilTest
 
@@ -371,12 +371,12 @@ public class TfIdfTest {
 
 所有类均达100%覆盖
 
-![image-20230308221845736](D:\资料\学习资料\作业\软件工程导论\第二次作业-论文查重.assets\image-20230308221845736.png)
+![image-20230911212411212](https://pic-1316520471.cos.ap-guangzhou.myqcloud.com/202309112124288.png)
 
 # 六、模块部分异常处理说明
 
 项目仅在读写文件时可能出现异常
 
-![image-20230308221933782](D:\资料\学习资料\作业\软件工程导论\第二次作业-论文查重.assets\image-20230308221933782.png)
+![image-20230911212417986](https://pic-1316520471.cos.ap-guangzhou.myqcloud.com/202309112124054.png)
 
-![image-20230308222017315](D:\资料\学习资料\作业\软件工程导论\第二次作业-论文查重.assets\image-20230308222017315.png)
+![image-20230911212423062](https://pic-1316520471.cos.ap-guangzhou.myqcloud.com/202309112124131.png)
