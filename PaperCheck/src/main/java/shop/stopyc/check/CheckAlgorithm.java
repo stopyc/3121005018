@@ -1,4 +1,4 @@
-package shop.check;
+package shop.stopyc.check;
 
 import java.util.List;
 

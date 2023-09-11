@@ -1,4 +1,4 @@
-package shop.segment;
+package shop.stopyc.segment;
 
 import java.util.List;
 

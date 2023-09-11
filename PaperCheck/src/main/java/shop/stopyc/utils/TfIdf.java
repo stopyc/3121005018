@@ -1,4 +1,4 @@
-package shop.utils;
+package shop.stopyc.utils;
 
 import java.util.ArrayList;
 import java.util.List;

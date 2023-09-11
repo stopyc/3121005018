@@ -2,15 +2,12 @@ package shop.stopyc.utils;
 
 import org.junit.Before;
 import org.junit.Test;
-import shop.segment.AnsjSeg;
-import shop.segment.TermsSegment;
-import shop.utils.TfIdf;
+import shop.stopyc.segment.AnsjSeg;
+import shop.stopyc.segment.TermsSegment;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
-
-import static org.junit.Assert.*;
 
 public class TfIdfTest {
 

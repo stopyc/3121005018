@@ -1,4 +1,4 @@
-package shop.utils;
+package shop.stopyc.utils;
 
 import java.io.IOException;
 import java.nio.file.Files;

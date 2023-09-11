@@ -1,4 +1,4 @@
-package shop.segment;
+package shop.stopyc.segment;
 
 import org.ansj.domain.Term;
 import org.ansj.recognition.impl.StopRecognition;
